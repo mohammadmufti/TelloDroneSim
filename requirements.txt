@@ -1,0 +1,4 @@
+opencv-python~=4.11.0.86
+djitellopy~=2.5.0
+pygame~=2.6.1
+numpy~=2.2.3
